@@ -1,4 +1,7 @@
 # Attend a Meetup
+For this assignment you will need to attend a meetup, and submit a brief write up of the meetup you attended.
+
+When submitting clear out the sections below, and provide a description of the meetup, questions you had at the meetup, and how you can continue learning about the meetup topic.
 
 ## Meetup Details
 <ul>
