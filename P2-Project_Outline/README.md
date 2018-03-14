@@ -25,8 +25,8 @@ I decided to make this project because I am getting married next year, and weddi
 - Rust
 - Rocket
 - Cargo
-- Handlebar Templates
-- A Rust crate for DB connectivity, and ORM
+- Tera Templates
+- Diesel
 - Foundation CSS
 
 ### What I'll Have to Learn
