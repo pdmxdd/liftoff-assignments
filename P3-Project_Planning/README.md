@@ -8,7 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- ![Wireframes Overview](./expense-tracker-wireframes.jpg)
+- ![Registration](./expense-tracker-register.jpg)
+- ![Login](./expense-tracker-login.jpg)
+- ![Menu](./expense-tracker-menu.jpg)
+- ![Create Category](./expense-tracker-create-category.jpg)
+- ![Create Expense](./expense-tracker-create-expense.jpg)
 
 ### Project Tracker
 
