@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- ![Wireframes Overview](./expense-tracker-wireframes.JPG)
-- ![Registration](./expense-tracker-register.JPG)
-- ![Login](./expense-tracker-login.JPG)
-- ![Menu](./expense-tracker-menu.JPG)
-- ![Create Category](./expense-tracker-create-category.JPG)
-- ![Create Expense](./expense-tracker-create-expense.JPG)
+- [Wireframes Overview](./expense-tracker-wireframes.JPG)
+- [Registration](./expense-tracker-register.JPG)
+- [Login](./expense-tracker-login.JPG)
+- [Menu](./expense-tracker-menu.JPG)
+- [Create Category](./expense-tracker-create-category.JPG)
+- [Create Expense](./expense-tracker-create-expense.JPG)
 
 ### Project Tracker
 
