@@ -8,8 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- [Wireframes Overview](./expense-tracker-wireframes.JPG)
+- [Registration](./expense-tracker-register.JPG)
+- [Login](./expense-tracker-login.JPG)
+- [Menu](./expense-tracker-menu.JPG)
+- [Create Category](./expense-tracker-create-category.JPG)
+- [Create Expense](./expense-tracker-create-expense.JPG)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2158692)
+
+
+![Spring 1 Stories](./sprint_1_stories.png)
