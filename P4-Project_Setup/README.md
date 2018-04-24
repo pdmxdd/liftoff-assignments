@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[Expense Tracker GitHub repo](https:://github.com/pdmxdd/expense-tracker/)
+[Expense Tracker GitHub repo](https://github.com/pdmxdd/expense-tracker/)
