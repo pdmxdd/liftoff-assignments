@@ -9,3 +9,5 @@ If you have made progress, and you engage with your mentor you will be marked as
 
 ## Submission Instructions
 Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.
+
+[Write up of Paul's 1st project review](https://education.launchcode.org/liftoff/demo-projects/expense-tracker/#week-5)
